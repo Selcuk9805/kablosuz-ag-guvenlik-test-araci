@@ -1,0 +1,2 @@
+wifi_kart=wlan0
+wifi_kart_mon=wlan0mon
